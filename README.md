@@ -4,10 +4,10 @@ This is a beginner project to help me learn C++
 
 Current games:
 - Coinflip
-
+- Roulette
+  
 Games to implement:
 - Blackjack
-- Roulette
 - Mines
 - Slots
 
